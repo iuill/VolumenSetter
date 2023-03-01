@@ -11,3 +11,7 @@ Bluetooth接続してて音量がよく変わる場合などにどうぞ。
 
 NAudio
 https://github.com/naudio/NAudio
+
+## License
+
+MIT license
