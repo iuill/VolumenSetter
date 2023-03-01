@@ -1,0 +1,8 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/VolumeSetter/bin/Debug/net6.0-windows
+/VolumeSetter/obj
+/VolumeSetter/VolumeSetter.csproj.user
